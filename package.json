@@ -1,6 +1,6 @@
 {
   "name": "apiseeds-exchange-rate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple, accurate and transparent exchange rates and currency conversion data using apiseeds API",
   "main": "index.js",
   "scripts": {

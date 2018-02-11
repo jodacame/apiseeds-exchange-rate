@@ -29,16 +29,6 @@ npm install -g apiseeds-exchange-rate
 * **amount** (Number) [Optional]
 
 
-## Method
-
-**currencies**
-
-Return supported currencies
-
-### Params 
-
-* **apikey** (String) [Required]
-
 
 ## Example Convert 
 
@@ -54,6 +44,18 @@ exchange.convert(apikey,"BTC","USD",function(response,headers){
     console.log("Response",response);
 });
 ```
+
+## Method
+
+**currencies**
+
+Return supported currencies
+
+### Params 
+
+* **apikey** (String) [Required]
+
+
 
 ## Example currencies 
 
