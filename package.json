@@ -1,0 +1,27 @@
+{
+  "name": "apiseeds-exchange-rate",
+  "version": "1.0.1",
+  "description": "Simple, accurate and transparent exchange rates and currency conversion data using apiseeds API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jodacame/apiseeds-exchange-rate.git"
+  },
+  "keywords": [
+    "convert",
+    "exchange",
+    "finances",
+    "money",
+    "currencies",
+    "currency"
+  ],
+  "author": "Jodacame",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jodacame/apiseeds-exchange-rate/issues"
+  },
+  "homepage": "https://github.com/jodacame/apiseeds-exchange-rate#readme"
+}
